@@ -8,6 +8,6 @@ The software is already published at playstore. You can find it searching for "e
 -- português
 
 Criamos este repositório para salvar arquivos relacionados ao projeto e-Perception!.
-e-Perception! é sistema tutor para treinamento auditivo. Ele possui alguns exercícios de identificação de intervalos musicais. Seus exercícios são organizados por níveis, como um jogo.
-Trata-se de um apicativo que tem sido desenvolvido dentro de um contexto acadêmico. Portanto, ele é o resultado de pesquisas correntes e talvez possa apresentar imperfeições. Estamos o atualizando periodicamente.
+e-Perception! é um CAI para treinamento auditivo. Ele possui alguns exercícios de identificação de intervalos musicais. Seus exercícios são organizados por níveis, como um jogo.
+Por ser um aplicativo que vem sendo desenvolvido em pesquisas correntes, talvez possa apresentar imperfeições. Estamos o atualizando periodicamente.
 O aplicativo foi publicado na Playstore. Para encontrá-lo, pesquisa por "e-Perception".
